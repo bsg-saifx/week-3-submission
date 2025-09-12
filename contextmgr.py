@@ -12,3 +12,4 @@ class Timer:
 with Timer() as t:
     for _ in range(1000000):
         pass
+
